@@ -1,31 +1,20 @@
-# Tirth Soni - Portfolio
+# Tirth Soni — Portfolio
 
-A modern, responsive portfolio website showcasing my skills and experience as a Python Developer & Backend Engineer.
+Personal portfolio for Tirth Soni, a Python developer and backend engineer. Built with Next.js 12, React, TypeScript, Tailwind CSS, and Lucide icons.
 
-## 🚀 Live Demo
+## Run locally
 
-[View Portfolio](https://your-username.github.io/tirth-portfolio)
+```bash
+npm install
+npm run dev
+```
 
-## 🛠️ Built With
+Open http://localhost:3000. Run `npm run build` to check the production build.
 
-- **Next.js 12** - React framework
-- **TypeScript** - Type safety
-- **Tailwind CSS** - Styling
-- **Lucide React** - Icons
+## Content and behavior
 
-## 📱 Features
+The single-page site includes About, Skills, Experience, Projects, and Contact sections, a responsive menu, a saved light/dark theme, and a custom 404 page. The contact form prepares a message in the visitor's email app; it does not send through a server.
 
-- Responsive design
-- Smooth animations
-- Professional dark theme
-- Contact form
-- Project showcase
+The Download CV button downloads [`public/Tirth-Soni-CV.pdf`](public/Tirth-Soni-CV.pdf). Replace that file when the CV changes. Project-specific demo and repository links should be added only after their URLs are confirmed; the portfolio currently links to the [GitHub profile](https://github.com/TirthSoni12) for public work.
 
-## 📄 License
-
-MIT License - feel free to use this template for your own portfolio.
-
----
-
-**Tirth Soni** - Python Developer & Backend Engineer  
-📧 tirthsoni@example.com | 💼 [LinkedIn](https://linkedin.com/in/tirthsoni) | 🐙 [GitHub](https://github.com/tirthsoni)
+Contact: [tirth.1657@gmail.com](mailto:tirth.1657@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tirth-soni-j) · [GitHub](https://github.com/TirthSoni12)
